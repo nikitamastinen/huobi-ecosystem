@@ -1,2 +1,5 @@
 aiogram~=2.20
 aiohttp~=3.8.1
+aioconsole~=0.4.1
+asyncssh~=2.10.1
+requests~=2.27.1
